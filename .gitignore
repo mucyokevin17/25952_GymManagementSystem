@@ -1,0 +1,29 @@
+# System Files
+.DS_Store
+Thumbs.db
+*.log
+
+# Zip Archives
+*.zip
+Finalweb.zip
+
+# Backend (Java/Spring)
+backend_25982/target/
+backend_25982/*.iml
+backend_25982/.idea/
+backend_25982/help.md
+
+# Frontend (Node/React)
+fronted_25982/node_modules/
+fronted_25982/dist/
+fronted_25982/build/
+fronted_25982/.env
+fronted_25982/.env.local
+fronted_25982/npm-debug.log*
+fronted_25982/yarn-debug.log*
+fronted_25982/yarn-error.log*
+
+# IDEs
+.vscode/
+.idea/
+*.swp
